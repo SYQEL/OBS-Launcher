@@ -1,6 +1,6 @@
 # SYQEL for OBS
 
-These scripts are used as shortcuts to start OBS in "Extended media streaming" mode which allows OBS to allow mic input usage in browser source
+These scripts are used as shortcuts to start OBS in "Extended media streaming" mode which allows OBS to enable and allow mic audio input for a browser source
 
 ![alt text](https://i.ibb.co/JCzzwS8/Screenshot-at-Jul-16-23-53-50.png)
 
@@ -11,9 +11,12 @@ These scripts are used as shortcuts to start OBS in "Extended media streaming" m
 
 ## Windows <a name="for_windows"></a>
 
-Copy and paste syqelOBS.bat to the directory  which contains OBS. It usually is located in this path `C:\Program Files\obs-studio\bin\64bit`. If you want to access this file from your desktop, right click on the file -> Create Shortcut -> Desktop
+Download and paste the syqelOBS.bat file into the directory which contains OBS source files. It usually is located in this path `C:\Program Files\obs-studio\bin\64bit`. 
+Then right click on the syqelOBS.bat file while in the source directory -> Create Shortcut -> Desktop
 
-If you want to start OBS with mic input support by using the command line, go to the same directory, open CMP or Powershell and write `./obs64.exe --enable-media-stream`
+From now on - when you click on the desktop shortcut you've just created you will launch OBS in "Extended Media Streaming" Mode
+
+Alternatively - If you want to start OBS with mic input support by using the command line, go to the same directory, open CMP or Powershell and write `./obs64.exe --enable-media-stream`
 
 ## MacOS <a name="for_mac"></a>
 
@@ -24,7 +27,7 @@ Download syqelOBS.sh and follow these steps
    ```
    chmod a+x (yourscriptname)
    ```
-2. Right-click yoursyqelOBS.sh and select "Open with" and then "Other...".
+2. Right-click the syqelOBS.sh file and select "Open with" and then "Other...".
 3. Here you select the application you want the file to execute
    into, in this case it would be Terminal. To be able to select terminal
    you need to switch from "Recommended Applications" to "All
