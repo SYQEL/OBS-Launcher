@@ -6,7 +6,7 @@ These scripts are used as shortcuts to start OBS in "Extended media streaming" m
 
 ## Table of Contents
 
-- [Windowns](#for_windows)
+- [Windows](#for_windows)
 - [MacOS](#for_mac)
 
 ## Windows <a name="for_windows"></a>
