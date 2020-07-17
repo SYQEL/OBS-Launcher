@@ -1,5 +1,7 @@
 # OBS Desktop Shortcuts for Extended Media Streams mode
 
+https://www.youtube.com/watch?v=NkFBOypMCnE
+
 These scripts are used as shortcuts to start OBS in "Extended media streaming" mode which allows OBS to enable and allow mic audio input for a browser source
 
 ![alt text](https://i.ibb.co/JCzzwS8/Screenshot-at-Jul-16-23-53-50.png)
