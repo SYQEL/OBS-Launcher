@@ -1,4 +1,4 @@
-# SYQEL for OBS
+# OBS Extended Media Streams
 
 These scripts are used as shortcuts to start OBS in "Extended media streaming" mode which allows OBS to enable and allow mic audio input for a browser source
 
