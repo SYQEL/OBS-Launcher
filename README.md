@@ -1,5 +1,9 @@
 # SYQEL for OBS
 
+These scripts are used as shortcuts to start OBS in "Extended media streaming" mode which allows OBS to allow mic input usage in browser scource
+
+![alt text](https://i.ibb.co/JCzzwS8/Screenshot-at-Jul-16-23-53-50.png)
+
 ## Table of Contents
 
 - [Windowns](#for_windows)
@@ -31,4 +35,8 @@ Download syqelOBS.sh and follow these steps
    checked.
 5. After clicking OK you should be able to execute you script by simply double-clicking it.
 
-If you want to just run the script using ter
+If you want to just run OBS in extended media streaming mode using terminal write this on terminal
+
+```
+/Applications/OBS.app/Contents/MacOS/OBS --enable-media-stream
+```
